@@ -1,6 +1,6 @@
 # Data-Science-Projects
 
-Here are the list of top projects that give a good overview and understading of the baisc machine learning concepts 
+Here are the list of top projects that give a good overview and understading of the basic machine learning concepts 
 
   1. Fake News Detection : https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
   2. Wine Quality Detection : https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
